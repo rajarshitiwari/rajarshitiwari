@@ -21,3 +21,8 @@ In February 2023, I joined Irish Centre for High End Computing (ICHEC) as Senior
 The repositories listed in my profile are mostly collection of codes I wrote during my career as researcher for various reasons. There are some forked/imported ones from public, which I meant to look at and contribute, but sadly I haven't.
 
 My own code (some day) will be slowly organized to be usable or atleast informative to others as well. Let's see how it evolves. Given that you have visited this page, and are reading up to this point :joy:, be kind enough to drop a few comments on the content, or send me your feedback :pencil: ! Thank you ! :sunglasses: 
+
+Below are some of the interesting repositories.
+---
+
+
