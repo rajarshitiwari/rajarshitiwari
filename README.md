@@ -2,6 +2,8 @@
 
 Hello ```np.random.random()``` stranger! Welcome to my github page.
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 # About me
 I am a researcher with interest in computing, HPC, material science, condensed matter physics, and quantum computing, not necessarily in order I just wrote them :laughing: .
 
